@@ -4,7 +4,7 @@ Thanks for reading this document!
 
 # Overview
 
-This is a tool to compile `.sass` (or `.css`) to cascade stylesheet format: `css`.
+This is a tool to compile `.sass` (or `.scss`) to cascade stylesheet format: `css`.
 
 The same things can be accomplished with typing `sass -w` in the original sass binary though, what I wanted to do was to replicate the function that the original application has and to practice coding in both Python and PHP language.
 
@@ -14,7 +14,7 @@ It may have bugs and less stability and I did not expect this to be used in a wi
 # How to use
 
 1. Simply edit `./script.py` so that it suits your needs.
-2. Type this: `python ./script.php`
+2. Type this: `python ./script.py`
 
 # Tested environments
 
